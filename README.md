@@ -6,8 +6,6 @@
 
 ![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraRedigolo&show_icons=true&theme=panda)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraRedigolo)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias
 <div style="display: inline-block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">

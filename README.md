@@ -1,9 +1,7 @@
 
 ### Hello! I'm Sara Redigolo 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sara.redigolo/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-redigolo-58b9a5204/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sara.redigolo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-redigolo-58b9a5204/)
 
 ![Sara GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraRedigolo&show_icons=true&theme=panda)
 
